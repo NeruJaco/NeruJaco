@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeruJaco
 - 👀 I’m interested in videogames and art
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
