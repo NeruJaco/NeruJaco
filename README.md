@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NeruJaco
+- 👋 Hi, I’m NeruJaco or Yodmaw
 - 👀 I’m interested in videogames and art
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
